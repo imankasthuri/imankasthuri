@@ -25,15 +25,21 @@ Here are some of the cybersecurity projects and lab investigations I've complete
   All SOC-related challenges and investigations organized in one place.
   Focused on log analysis, alerts, detection, and incident response skills.
   
- 👉 https://github.com/imankasthuri/soc_analyst_labs
+  👉 https://github.com/imankasthuri/soc_analyst_labs
 
 - 🛠️ **Pentesting Home Lab**
 
   A controlled penetration testing lab using Kali Linux and Windows VMs.
   Focused on networking, scanning, exploitation, and attacker techniques in a safe environment.
   
- 👉 https://github.com/imankasthuri/pentesting_home_lab
+  👉 https://github.com/imankasthuri/pentesting_home_lab
+ 
+ - 🧪 Active Directory Home Lab
 
+  A hands-on Active Directory lab based on Josh Madakor’s AD project.
+  Built to understand Windows domains, users, groups, policies, and common attack paths.
+  
+  👉 https://github.com/imankasthuri/active_directory_lab
 
 ## 🔗 Connect With Me
 
