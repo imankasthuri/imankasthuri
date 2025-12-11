@@ -34,7 +34,7 @@ Here are some of the cybersecurity projects and lab investigations I've complete
   
   👉 https://github.com/imankasthuri/pentesting_home_lab
  
-- 🧪 Active Directory Home Lab
+- 🧪 **Active Directory Home Lab**
 
   A hands-on Active Directory lab based on Josh Madakor’s AD project.
   Built to understand Windows domains, users, groups, policies, and common attack paths.
