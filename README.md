@@ -20,14 +20,15 @@ I'm currently learning **IT and Cybersecurity**, focusing on building real hands
 
 Here are some of the cybersecurity projects and lab investigations I've completed:
 
-- 🔵 **SOC Analyst Labs (All Challenges in One Folder)**  
-  👉 https://github.com/imankasthuri/soc_analyst_labs
+- 🔵 **SOC Analyst Labs (All Challenges in One Folder)**
+  All SOC-related challenges and investigations organized in one place.
+  Focused on log analysis, alerts, detection, and incident response skills.
+ 👉 https://github.com/imankasthuri/soc_analyst_labs
 
-- 🧪 **Active Directory Home Lab (Based on Josh Madakor’s AD Project)**  
-  👉 https://github.com/imankasthuri/active_directory_lab
-
-- 🛠️ **Pentesting Home Lab (Attack & Defense Practice)**  
-  👉 https://github.com/imankasthuri/pentesting_home_lab
+- 🛠️ **Pentesting Home Lab**
+  A controlled penetration testing lab using Kali Linux and Windows VMs.
+  Focused on networking, scanning, exploitation, and attacker techniques in a safe environment.
+ 👉 https://github.com/imankasthuri/pentesting_home_lab
 
 
 ## 🔗 Connect With Me
