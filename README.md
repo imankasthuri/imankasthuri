@@ -36,8 +36,7 @@ Here are some of the cybersecurity projects and lab investigations I've complete
  
 - 🧪 **Active Directory Basics Lab**
 
-  A hands-on Active Directory lab based on Josh Madakor’s AD project.
-  Built to understand Windows domains, users, groups, policies, and common attack paths.
+  A hands-on Active Directory lab focused on understanding Windows domains, users, groups, and Group Policy fundamentals.
   
   👉 https://github.com/imankasthuri/active_directory_lab
 
