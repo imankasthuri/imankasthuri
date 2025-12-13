@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iman
 
-I'm currently learning IT and Cybersecurity, focusing on building real hands-on experience through labs and practical security investigations. My long-term career goal is to become a SOC Analyst, and I'm actively developing skills in:
+I’m an aspiring SOC Analyst with a strong focus on hands-on cybersecurity labs and real-world security investigations. I’m actively building practical experience in blue-team operations and defensive security through structured labs, simulations, and projects.
 
 - 🔎 Log analysis and SIEM monitoring
 - 🛡️ Threat detection and alert triage
