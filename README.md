@@ -27,18 +27,6 @@ Here are some of the cybersecurity projects and lab investigations I've complete
   
   👉 https://github.com/imankasthuri/soc_analyst_labs
 
-- 🛠️ **Kali Windows Security Home Lab**
-
-  A controlled penetration testing lab using Kali Linux and Windows VMs.
-  Focused on networking, scanning, exploitation, and attacker techniques in a safe environment.
-  
-  👉 https://github.com/imankasthuri/pentesting_home_lab
- 
-- 🧪 **Active Directory Basics Lab**
-
-  A hands-on Active Directory lab focused on understanding Windows domains, users, groups, and Group Policy fundamentals.
-  
-  👉 https://github.com/imankasthuri/active_directory_lab
 
 ## 🔗 Connect With Me
 
