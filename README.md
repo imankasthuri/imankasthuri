@@ -20,12 +20,13 @@ I’m an aspiring SOC Analyst with a strong focus on hands-on cybersecurity labs
 
 Here are some of the cybersecurity projects and lab investigations I've completed:
 
-- 🔵 **SOC Analyst Labs (All Challenges in One Folder)**
+- **SOC Analyst Labs (All Challenges in One Folder)**
   
   All SOC-related challenges and investigations organized in one place.
   Focused on log analysis, alerts, detection, and incident response skills.
   
-  👉 https://github.com/imankasthuri/soc_analyst_labs
+  🔗 Repository:
+  https://github.com/imankasthuri/soc_analyst_labs
 
 
 ## 🔗 Connect With Me
