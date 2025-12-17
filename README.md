@@ -2,17 +2,17 @@
 
 I’m an aspiring SOC Analyst with a strong focus on hands-on cybersecurity labs and real-world security investigations. I’m actively building practical experience in blue-team operations and defensive security through structured labs, simulations, and projects.
 
-- 🔎 Log analysis and SIEM monitoring
-- 🛡️ Threat detection and alert triage
-- 🧪 Malware, phishing, and email analysis
-- 🖥️ Windows & Linux security investigations
-- ⚙️ Security tools, scripting, and incident response fundamentals
+- Log analysis and SIEM monitoring
+- Threat detection and alert triage
+- Malware, phishing, and email analysis
+- Windows & Linux security investigations
+- Security tools, scripting, and incident response fundamentals
 
 ---
 
 ## 🎓 Certifications & Training
 
-- 📜 **Google IT Support**
+-  **Google IT Support**
 
 ---
 
