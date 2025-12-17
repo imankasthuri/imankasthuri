@@ -25,11 +25,7 @@ I’m an aspiring **SOC Analyst** with a strong focus on **hands-on cybersecurit
 ### 🔵 SOC Analyst Labs  
 **All challenges organized in one repository**
 
-A collection of SOC-focused challenges and lab investigations emphasizing:
-- Log analysis  
-- Security alerts  
-- Detection techniques  
-- Incident response workflows  
+- This repository contains a collection of SOC-focused challenges and lab investigations that emphasize log analysis, security alert investigation, detection techniques, and incident response workflows. These labs are designed to simulate real-world blue team scenarios and demonstrate hands-on experience with core SOC analyst responsibilities.
 
 🔗 **Repository:**  
 https://github.com/imankasthuri/soc_analyst_labs
