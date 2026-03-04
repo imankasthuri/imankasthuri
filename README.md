@@ -1,23 +1,44 @@
-# 👋 Hi, I’m Kasthuri Mudiyanselage
+# 👋 Hi, I’m Iman Kasthuri
 
-🌱 I’m currently **looking for an entry-level IT job**.  
-🎓 Certified in **Google IT Support Professional Certificate**, which taught:  
-- Troubleshooting and problem-solving  
-- Networking and system administration  
-- Security, operating systems, and IT support fundamentals  
-- Customer service and communication skills in IT  
+🌱 I’m currently **looking for an entry-level IT job**.
+
+---
+
+## 🎓 Training & Certification
+- **Google IT Support Professional Certificate**  
+  Skills learned:  
+  - Troubleshooting and problem-solving  
+  - Networking and system administration  
+  - Security and operating systems  
+  - IT support fundamentals and customer service  
 
 ---
 
 ## 💻 Projects
-- **Active Directory Lab:** Created users, groups, OUs, and applied GPOs.  
-- **Group Policy Lab:** Deployed firewall rules, desktop backgrounds, logon banners, registry tweaks, software installation, and drive mapping.  
-- **Roaming Profiles & Network Drives:** Configured secure roaming profiles and automatic network drive mapping.  
-- **Password & Account Policies:** Implemented account lockout and fine-grained password policies, tested GPO application.  
+
+### 💻 Active Directory Lab
+
+Configured a full Active Directory environment on Windows Server 2022 and connected Windows 10 clients. Key tasks:  
+- Installed and configured **AD DS** and domain clients.  
+- Created and managed **user accounts**, **groups**, and **organizational units (OUs)**.  
+- Reset passwords, unlocked accounts, and disabled/deleted accounts.  
+- Applied **Group Policy Objects (GPOs)** for:  
+  - Firewall rules  
+  - Desktop backgrounds  
+  - Logon banners  
+  - Registry tweaks (e.g., “Open With Notepad”)  
+  - Software deployment  
+  - Network drive mapping  
+  - Roaming profiles  
+- Configured **password policies** and **account lockout policies**.  
+- Implemented **Fine-Grained Password Policies (PSOs)** for targeted user groups.  
+- Verified **GPO application** using `gpupdate /force` and `gpresult /r`.  
+- Troubleshot connectivity, user access, and policy enforcement to ensure secure and efficient domain management.
+
+Github - https://github.com/imankasthuri/active_directory_group_policy_lab/blob/main/README.md?plain=1
 
 ---
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - [Email](mailto:your.email@example.com)
-
