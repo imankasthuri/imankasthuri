@@ -37,7 +37,7 @@ Configured a full Active Directory environment on Windows Server 2022 and connec
 - Verified **GPO application** using `gpupdate /force` and `gpresult /r`.  
 - Troubleshot connectivity, user access, and policy enforcement to ensure secure and efficient domain management.
 
-Github - https://github.com/imankasthuri/active_directory_group_policy_lab/blob/main/README.md?plain=1
+Github - https://github.com/imankasthuri/active_directory_group_policy_lab/blob/main/README.md
 
 ---
 
