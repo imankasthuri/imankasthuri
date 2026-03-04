@@ -5,7 +5,9 @@
 ---
 
 ## 🎓 Training & Certification
-- **Google IT Support Professional Certificate**  
+
+- **Google IT Support Professional Certificate (Online Training Program)**
+  
   Skills learned:  
   - Troubleshooting and problem-solving  
   - Networking and system administration  
