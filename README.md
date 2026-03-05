@@ -4,7 +4,7 @@
 
 ---
 
-## 🎓 Training & Certification
+## 🎓 Training & Certificates
 
 - **Google IT Support Professional Certificate (Online Training Program)**
   
