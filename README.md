@@ -42,5 +42,5 @@ Github - https://github.com/imankasthuri/active_directory_group_policy_lab/blob/
 ---
 
 ## 📫 Contact
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/iman-kasthuri-028900286/))  
+- [LinkedIn]([https://www.linkedin.com/in/iman-kasthuri-028900286/]
 - [Email](mailto:your.email@example.com)
