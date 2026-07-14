@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Iman Kasthuri
 
-🌱 I’m currently **looking for an entry-level IT job**.
+- I’m currently **looking for an entry-level IT job**.
 
 ---
 
