@@ -6,6 +6,7 @@
 
 ## 🎓 Training & Certificates
 
+- Cisco Certified Support Technician Networking (CCST Networking)
 - **Google IT Support Professional Certificate (Online Training Program)**
   
   Skills learned:  
